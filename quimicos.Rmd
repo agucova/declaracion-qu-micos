@@ -58,6 +58,7 @@ Firman,
 - Asociación Nacional de Investigadores en Postgrado
 - Asamblea de Postgrado UChile
 - Frente Conocimiento
+- No + Lacrimógenas
 - Asociación de Investigadores en Artes y Humanidades
 - Bloque Educación Unidad Social
 
