@@ -38,10 +38,15 @@ Firman,
 
 - Asamblea por el Conocimiento y la Investigación Chile 
 - Bloque Salud Unidad Social 
+- Colegio Chileno de Químicos A.G.
+- Asociación Red de Investigadoras
+- Asociación Nacional de Investigadores en Postgrado (ANIP)
+- Asamblea de Postgrado UChile
+- Frente Conocimiento
 
-(Para firmas institucionales comunicarse a [asambleainvestigadoreschile@gmail.com](mailto:asambleainvestigadoreschile@gmail.com))
+(Para firmas institucionales comunicarse a [contacto@acic.cl](mailto:contacto@acic.cl))
 
-## [Firmar declaración](https://forms.gle/DpG124aZn4TnDdot7)
+### [Firmar declaración](https://forms.gle/DpG124aZn4TnDdot7)
 
 [^1]: Convención sobre las Armas Químicas. Organización para la Prohibición de las Armas Químicas (1997). [Link](https://www.opcw.org/es/convencion-sobre-las-armas-quimicas)
 
@@ -57,7 +62,7 @@ Firman,
 
 [^7]: Olajos EJ, Stopford W, editors. Riot Control Agents: Issues in Toxicology, Safety and Health. CRC Press. (2004)
 
-[^8]: Sesión del 9 de Diciembre de 2019 de la Comisión de DDHH del Senado de Chile
+[^8]: Sesión del 9 de Diciembre de 2019 de la Comisión de DDHH del Senado de Chile. [Link](https://tv.senado.cl/tvsenado/comisiones/permanentes/derechos-humanos/comision-de-derechos-humanos/2019-12-09/142004.html)
 
 [^9]: Encalada D, Estay S, Estrada S, Fuentes P, Leiva J, Mandiola MI, Martínez D, Olguín P, Sánchez L, Tepper A, Vargas A, Villanueva V, Vivaceta A. Informe acerca del uso de gases lacrimógenos por agentes del Estado. Universidad de Valparaíso. (2019)
 
