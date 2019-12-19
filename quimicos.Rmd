@@ -4,10 +4,11 @@ subtitle: "Uso de compuestos químicos por Carabineros de Chile"
 author: "Asamblea por el Conocimiento y la Investigación"
 date: "17/12/2019"
 output:
+  tufte::tufte_handout: default
   tufte::tufte_html:
     css: "parche.css"
-  tufte::tufte_handout: default
 ---
+
 ```{r setup, include=FALSE}
 library(tufte)
 # invalidate cache when the tufte version changes
@@ -52,8 +53,13 @@ Firman,
 
 - Asamblea por el Conocimiento y la Investigación Chile 
 - Bloque Salud Unidad Social 
+- Colegio Chileno de Químicos A.G.
+- Asociación Red de Investigadoras
+- Asociación Nacional de Investigadores en Postgrado (ANIP)
+- Asamblea de Postgrado UChile
+- Frente Conocimiento
 
-(Para firmas institucionales comunicarse a [asambleainvestigadoreschile@gmail.com](mailto:asambleainvestigadoreschile@gmail.com))
+(Para firmas institucionales comunicarse a [contacto@acic.cl](mailto:contacto@acic.cl))
 
 <center>
 # [Firmar declaración](https://forms.gle/DpG124aZn4TnDdot7)
@@ -75,7 +81,7 @@ $~$
 
 [^7]: Olajos EJ, Stopford W, editors. Riot Control Agents: Issues in Toxicology, Safety and Health. CRC Press. (2004)
 
-[^8]: Sesión del 9 de Diciembre de 2019 de la Comisión de DDHH del Senado de Chile
+[^8]: Sesión del 9 de Diciembre de 2019 de la Comisión de DDHH del Senado de Chile. [Link](https://tv.senado.cl/tvsenado/comisiones/permanentes/derechos-humanos/comision-de-derechos-humanos/2019-12-09/142004.html)
 
 [^9]: Encalada D, Estay S, Estrada S, Fuentes P, Leiva J, Mandiola MI, Martínez D, Olguín P, Sánchez L, Tepper A, Vargas A, Villanueva V, Vivaceta A. Informe acerca del uso de gases lacrimógenos por agentes del Estado. Universidad de Valparaíso. (2019)
 
