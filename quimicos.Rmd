@@ -4,9 +4,9 @@ subtitle: "Uso de compuestos químicos por Carabineros de Chile"
 author: "Asamblea por el Conocimiento y la Investigación"
 date: "17/12/2019"
 output:
-  tufte::tufte_handout: default
   tufte::tufte_html:
     css: "parche.css"
+  tufte::tufte_handout: default
 ---
 
 ```{r setup, include=FALSE}
